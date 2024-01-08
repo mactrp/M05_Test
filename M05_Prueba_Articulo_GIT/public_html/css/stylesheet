@@ -1,0 +1,147 @@
+
+
+
+#tittle
+{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 3px; 
+    width: 300px;
+
+}
+
+
+
+
+h2
+{
+    font-size: 30px;
+    text-align: justify;
+    font-size: 22px;
+
+
+}
+h3
+{
+    font-size: 14px;
+    text-align: justify;
+    color: grey;
+}
+
+#hoja
+{
+    margin-right: auto;
+    border-left: double 2px lightslategray; 
+    border-right:double 2px lightslategray;
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 2000px;
+
+}
+
+#doslineas
+{
+    width: auto;
+    border-top: 1px solid black ; 
+    border-bottom: double 2px;
+    height: 40px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+
+#noticiaiz
+{
+    width: 300px;
+    padding: 20px; 
+    margin-top: 20px;
+
+}
+
+#noticiaiz-2
+{
+    float: left;
+    text-align: justify;
+    border-right: 1px solid black ; 
+    padding-right: 20px; 
+
+
+
+}
+
+#alonsoimg
+{
+    border-radius: 15px;
+    float: right;
+    height: 50%;
+    width: 50%;
+    margin-right: 100px;
+    margin-top: 40px;
+    background-size:auto;
+}
+
+#noticiafg
+{
+width: 300px;
+padding: 20px; 
+margin-top: 20px;
+border-right: solid 1px lightslategrey ;
+}
+
+#gaza
+{
+    width: 600px;
+    float: right;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    
+}
+#titulo-articulo-2
+{
+    height: 1px;
+    text-align: center;
+    font-size: xx-large;
+    margin-right: 20px;
+
+}
+
+#texto-articulo-2
+{
+    text-align: justify;
+    margin-right: 20px;
+    width: 550px;
+
+}
+#piefoto
+{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin-right: 50px;
+    text-align: justify;
+}
+
+#tmw
+{
+    border-top: solid 1px lightslategray;
+    margin-top: 50px;
+    width: 960px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#texto-articulo-3
+{
+    text-align: justify;
+    margin-right: 20px;
+    width: 950px;
+
+}
+
